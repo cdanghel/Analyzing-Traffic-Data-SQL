@@ -1,13 +1,17 @@
 /* Task 3
  After analyzing the conversion rate, we decided to decrease our bid
- for nonbrand gsearch on April 15, 2012. We are now interested in
- tracking the trended session volume for nonbrand gsearch on a weekly
+ for gsearch nonbrand  on 2012-04-15. We are now interested in
+ tracking the trended session volume for gsearch nonbrand on a weekly
  basis to determine if the bid adjustments have resulted in a decrease
  in volume.
-*/
 
-# Solution
-
+ Solution
+From the information provided, it appears that making bid changes 
+significantly affects the performance of gsearch nonbrand.
+While we aim to maximize our ad visibility and reach, it is
+crucial to ensure that our advertising expenditure remains
+within our affordable limits.*/
+	
 use mavenfuzzyfactory;
 
 select 
