@@ -38,3 +38,8 @@ to explore potential optimization strategies.
 <img width="304" alt="Task2" src="https://github.com/cdanghel/Analyzing-Traffic-Data-SQL/assets/131986570/b322e9f2-657b-4d02-9516-e818215805ef">
 
 It seems that our current conversion rate is causing us to exceed our budget, indicating that we are below the required 4% threshold for the economics to be viable. Therefore, we need to reduce our search bids to align with this analysis and avoid overspending.
+
+## Task 3
+
+### Task 3, results:
+<img width="178" alt="Task3" src="https://github.com/cdanghel/Analyzing-Traffic-Data-SQL/assets/131986570/a50db7fb-6ef8-4988-9fa2-578a5fc253bd">
