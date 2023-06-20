@@ -54,3 +54,15 @@ significantly affects the performance of **gsearch nonbrand**.
 While we aim to maximize our ad visibility and reach, it is
 crucial to ensure that our advertising expenditure remains
 within our affordable limits.
+
+## Task 4
+Our objective is to analyze the conversion rates across different device
+ types, specifically from session to order. If we observe that desktop 
+ performance surpasses mobile performance, we can consider increasing 
+ our bids specifically for desktop in order to generate higher volume.
+### Task 4, results:
+
+<img width="271" alt="Task4" src="https://github.com/cdanghel/Analyzing-Traffic-Data-SQL/assets/131986570/79971d9b-1d12-4194-bc36-96b703fb34a2">
+
+This demonstrates the necessity of increasing our desktop bids. By bidding 
+higher, we can improve our ranking in the auctions.
