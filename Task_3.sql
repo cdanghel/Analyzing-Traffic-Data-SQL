@@ -3,9 +3,9 @@
  for gsearch nonbrand  on 2012-04-15. We are now interested in
  tracking the trended session volume for gsearch nonbrand on a weekly
  basis to determine if the bid adjustments have resulted in a decrease
- in volume.
+ in volume.*/
 
- Solution */
+-- Solution 
 
 use mavenfuzzyfactory;
 
