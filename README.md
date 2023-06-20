@@ -40,6 +40,17 @@ to explore potential optimization strategies.
 It seems that our current conversion rate is causing us to exceed our budget, indicating that we are below the required 4% threshold for the economics to be viable. Therefore, we need to reduce our search bids to align with this analysis and avoid overspending.
 
 ## Task 3
-
+ After analyzing the conversion rate, we decided to decrease our bid
+ for **gsearch nonbrand**  on 2012-04-15. We are now interested in
+ tracking the trended session volume for **gsearch nonbrand** on a weekly
+ basis to determine if the bid adjustments have resulted in a decrease
+ in volume.
+ 
 ### Task 3, results:
 <img width="178" alt="Task3" src="https://github.com/cdanghel/Analyzing-Traffic-Data-SQL/assets/131986570/a50db7fb-6ef8-4988-9fa2-578a5fc253bd">
+
+From the information provided, it appears that making bid changes 
+significantly affects the performance of **gsearch nonbrand**.
+While we aim to maximize our ad visibility and reach, it is
+crucial to ensure that our advertising expenditure remains
+within our affordable limits.
