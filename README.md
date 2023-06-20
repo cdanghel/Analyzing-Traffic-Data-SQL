@@ -19,3 +19,14 @@
 It appears that a significant portion of our website traffic originates
  from **nonbrand** searches on **gsearch**. However, it is crucial for us to
  determine whether these browsing sessions are ultimately leading to sales.
+
+  ## Task 2
+ It appears that the primary source of our website traffic is coming
+ from non-branded searches on GSearch. However, it is important for us
+ to determine whether these sessions are resulting in actual sales.
+ 
+ To assess this, we should calculate the conversion rate (CVR) from
+ session to order. Considering the cost per click, it is essential
+ for the CVR to be at least 4% in order to achieve favorable results.
+
+ ### Task 2, results:
