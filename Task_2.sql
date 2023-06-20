@@ -28,3 +28,8 @@ where website_sessions.created_at <'2012-04-14'
      and utm_source='gsearch'
      and utm_campaign ='nonbrand'
 ;
+/*Results 
+It seems that our current conversion rate is causing us to exceed our budget, indicating that
+we are below the required 4% threshold for the economics to be viable. Therefore, we need to
+reduce our search bids to align with this analysis and avoid overspending.
+*/
