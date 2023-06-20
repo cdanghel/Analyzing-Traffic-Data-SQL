@@ -6,12 +6,7 @@
  in volume.
 
  Solution
-From the information provided, it appears that making bid changes 
-significantly affects the performance of gsearch nonbrand.
-While we aim to maximize our ad visibility and reach, it is
-crucial to ensure that our advertising expenditure remains
-within our affordable limits.*/
-	
+
 use mavenfuzzyfactory;
 
 select 
@@ -26,3 +21,11 @@ where created_at < '2012-05-12'
 group by 
 	year(created_at),
 	week(created_at)
+
+/*Results
+From the information provided, it appears that making bid changes 
+significantly affects the performance of gsearch nonbrand.
+While we aim to maximize our ad visibility and reach, it is
+crucial to ensure that our advertising expenditure remains
+within our affordable limits.*/
+*/
