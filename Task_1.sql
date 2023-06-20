@@ -10,7 +10,6 @@
 -- Solution
 
 use mavenfuzzyfactory;
-
 select
     count(distinct website_sessions.website_session_id) as sessions,
     count(distinct orders.order_id) as orders
@@ -22,5 +21,11 @@ where website_sessions.created_at < '2012-04-14'
     and utm_campaign = 'nonbrand'
 ;
 
+/*Results
+
+It appears that our primary source of traffic is coming from nonbranded searches 
+in gsearch. However, it is important for us to determine whether these sessions are
+effectively generating sales.
+*/
 
   
