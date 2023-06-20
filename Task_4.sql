@@ -23,3 +23,8 @@ where website_sessions.created_at < '2012-05-11'
     and utm_campaign = 'nonbrand'
     
 group by 1
+
+/*Results
+This demonstrates the necessity of increasing our desktop bids. By bidding higher
+, we can improve our ranking in the auctions.
+*/
