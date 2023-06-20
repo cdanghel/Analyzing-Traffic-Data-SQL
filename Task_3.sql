@@ -5,7 +5,7 @@
  basis to determine if the bid adjustments have resulted in a decrease
  in volume.
 
- Solution
+ Solution */
 
 use mavenfuzzyfactory;
 
