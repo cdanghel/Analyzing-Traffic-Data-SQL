@@ -4,7 +4,14 @@ in the database for the purpose of identifying paid website sessions.
 By analyzing our session data, we can establish a connection with our 
 order data in order to gain insight into the amount of revenue generated
 by our paid campaigns.
- 
+
+ ## Disclaimer
+1. This code is not original and was developed by following instructions from the Udemy course
+   "Advanced SQL: MySQL Data Analysis & Business Intelligence" by John Pauler.
+2. The course covers various topics related to SQL and it spans 8 hours on-demand video.
+3. In some cases, modifications or adaptations have been made to the original code to fit specific requirements or enhance functionality.
+4.  To access the original course materials and learn more, please refer to the "Advanced SQL: MySQL Data Analysis & Business Intelligence" available here (https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/)
+   
  ## Task 1
  We have begun to generate sales and now we would like to gain insight
  into the primary sources of our website sessions up until 2012-04-12. 
