@@ -21,7 +21,7 @@ by our paid campaigns.
  source**, **campaign**, and **referring domain**.
  
  ### Task 1, results:
-<img width="462" alt="Task1" src="https://github.com/cdanghel/Analyzing-Traffic-Data-SQL/assets/131986570/3d9c27b3-20c5-4126-9e76-a2da188e2ecf">
+<img width="462" alt="Task1" src="https://github.com/cdanghel/Analyzing-Traffic-Data-SQL/blob/master/Task1.PNG">
 
 According to the results we have gathered, it appears that further 
 investigation into **gsearch nonbrand** would be beneficial in order
@@ -44,7 +44,7 @@ to explore potential optimization strategies.
 
  ### Task 2, results:
  
-<img width="304" alt="Task2" src="https://github.com/cdanghel/Analyzing-Traffic-Data-SQL/assets/131986570/b322e9f2-657b-4d02-9516-e818215805ef">
+<img width="304" alt="Task2" src="https://github.com/cdanghel/Analyzing-Traffic-Data-SQL/blob/master/Task2.PNG">
 
 It seems that our current conversion rate is causing us to exceed our budget, indicating that we are below the required 4% threshold for the economics to be viable. Therefore, we need to reduce our search bids to align with this analysis and avoid overspending.
 
@@ -56,7 +56,7 @@ It seems that our current conversion rate is causing us to exceed our budget, in
  in volume.
  
 ### Task 3, results:
-<img width="178" alt="Task3" src="https://github.com/cdanghel/Analyzing-Traffic-Data-SQL/assets/131986570/a50db7fb-6ef8-4988-9fa2-578a5fc253bd">
+<img width="178" alt="Task3" src="https://github.com/cdanghel/Analyzing-Traffic-Data-SQL/blob/master/Task3.PNG">
 
 From the information provided, it appears that making bid changes 
 significantly affects the performance of **gsearch nonbrand**.
@@ -71,7 +71,7 @@ Our objective is to analyze the conversion rates across different device
  our bids specifically for desktop in order to generate higher volume.
 ### Task 4, results:
 
-<img width="271" alt="Task4" src="https://github.com/cdanghel/Analyzing-Traffic-Data-SQL/assets/131986570/79971d9b-1d12-4194-bc36-96b703fb34a2">
+<img width="271" alt="Task4" src="https://github.com/cdanghel/Analyzing-Traffic-Data-SQL/blob/master/Task4.PNG">
 
 This demonstrates the necessity of increasing our desktop bids. By bidding 
 higher, we can improve our ranking in the auctions.
